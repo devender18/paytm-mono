@@ -21,6 +21,7 @@
     "packages/*"
   ],
   "dependencies": {
-    "prisma": "^5.22.0"
+    "prisma": "^5.22.0",
+    "recoil": "^0.7.7"
   }
 }
